@@ -1,0 +1,6 @@
+Question: 
+Difference between Subarray/Substring, Sub-Sequence, Subset?
+
+Answer:
+
+https://quanticdev.com/algorithms/primitives/subarray-vs-substring-vs-subsequence-vs-subset/
